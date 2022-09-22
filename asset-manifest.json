@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MOON-MONGRELZ/static/css/main.203803f2.css",
+    "main.js": "/MOON-MONGRELZ/static/js/main.7dc351fe.js",
+    "static/media/bear.png": "/MOON-MONGRELZ/static/media/bear.bfb44496610d0816321d.png",
+    "static/media/mm3d.png": "/MOON-MONGRELZ/static/media/mm3d.12db38813139ea816d5b.png",
+    "static/media/logo2.jpg": "/MOON-MONGRELZ/static/media/logo2.724097bd92d617805c5e.jpg",
+    "static/media/logo8.jpg": "/MOON-MONGRELZ/static/media/logo8.b22a7b6e42876b16fc82.jpg",
+    "static/media/logo7.jpg": "/MOON-MONGRELZ/static/media/logo7.e3f791368d18ec5307bb.jpg",
+    "static/media/logo5.jpg": "/MOON-MONGRELZ/static/media/logo5.d4a2a71d976d39782071.jpg",
+    "static/media/logo3.jpg": "/MOON-MONGRELZ/static/media/logo3.f3794e57cda7bdf4cc39.jpg",
+    "static/media/logo6.jpg": "/MOON-MONGRELZ/static/media/logo6.b83042c00805184ffaa6.jpg",
+    "static/media/logo1.jpg": "/MOON-MONGRELZ/static/media/logo1.fb3aa2395d020edc4ece.jpg",
+    "static/media/logo4.jpg": "/MOON-MONGRELZ/static/media/logo4.388b0291548ca6b1d40c.jpg",
+    "index.html": "/MOON-MONGRELZ/index.html",
+    "main.203803f2.css.map": "/MOON-MONGRELZ/static/css/main.203803f2.css.map",
+    "main.7dc351fe.js.map": "/MOON-MONGRELZ/static/js/main.7dc351fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203803f2.css",
+    "static/js/main.7dc351fe.js"
+  ]
+}
